@@ -1,0 +1,16 @@
+{
+    "name": "plugse/dynf",
+    "description": "Testing dynamic functions on PHP",
+    "autoload": {
+        "psr-4": {
+            "Plugse\\Dynf\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "José Hélio",
+            "email": "jose.helio@gmail.com"
+        }
+    ],
+    "require": {}
+}
